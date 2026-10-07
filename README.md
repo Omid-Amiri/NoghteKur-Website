@@ -3,7 +3,7 @@
 An all-in-one platform for **institutes, consultants, and students** — powered by AI-driven exam generation, assignment tracking, real-time messaging, and a reward-based scoring system.
 
 ## 📸 Platform Preview
-### Sub-accounts/ Profiles
+<h2 align="center">Sub-accounts/ Profiles</h2>
 <div align="center">
   <img src="./NoghteKur-images/1.webp">
   <img src="./NoghteKur-images/2.webp">
