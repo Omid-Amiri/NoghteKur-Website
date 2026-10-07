@@ -1,9 +1,10 @@
 # 🎯 NoghteKur — Educational Management Platform
 ### Live Demo:  [https://noghtekur.ir](https://noghtekur.ir)
 An all-in-one platform for **institutes, consultants, and students** — powered by AI-driven exam generation, assignment tracking, real-time messaging, and a reward-based scoring system.
+**NoghteKur** — Where education gets smarter 🚀
 
 ## 📸 Platform Preview
-<h3 align="center">Sub-accounts/ Profiles</h3>
+<h3 align="center">Sub-Accounts/ Profiles</h3>
 <div align="center">
   <img src="./NoghteKur-images/1.webp">
   <img src="./NoghteKur-images/2.webp">
@@ -92,4 +93,3 @@ An all-in-one platform for **institutes, consultants, and students** — powered
 - **Transparent communication** between institute, consultant, and student
 - **Learning verification** through targeted integrity questions
 
-> **NoghteKur** — Where education gets smarter 🚀
