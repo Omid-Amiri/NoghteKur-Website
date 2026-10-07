@@ -3,10 +3,40 @@
 An all-in-one platform for **institutes, consultants, and students** — powered by AI-driven exam generation, assignment tracking, real-time messaging, and a reward-based scoring system.
 
 ## 📸 Platform Preview
-### Sub-accounts & Profiles
+### Sub-accounts/ Profiles
 <div align="center">
-  <img src="./NoghteKur-images/1.webp" width="50%">
-  <img src="./NoghteKur-images/2.webp" width="50%">
+  <img src="./NoghteKur-images/1.webp">
+  <img src="./NoghteKur-images/2.webp">
+  <img src="./NoghteKur-images/3.webp">
+</div>
+
+### Create Exam/ Last Exams/ Each Exam Details
+<div align="center">
+  <img src="./NoghteKur-images/4.webp">
+  <img src="./NoghteKur-images/5.webp">
+  <img src="./NoghteKur-images/6.webp">
+  <img src="./NoghteKur-images/7.webp">
+</div>
+
+### Create Message/ Message List
+<div align="center">
+  <img src="./NoghteKur-images/8.webp">
+  <img src="./NoghteKur-images/9.webp">
+</div>
+
+### Financial Charts
+<div align="center">
+  <img src="./NoghteKur-images/10.webp">
+</div>
+
+### Create Weekly Study Plan
+<div align="center">
+  <img src="./NoghteKur-images/11.webp">
+</div>
+
+### Manage Accounts
+<div align="center">
+  <img src="./NoghteKur-images/12.webp">
 </div>
 
 ## ✨ Key Features
