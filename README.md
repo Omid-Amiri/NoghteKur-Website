@@ -3,14 +3,14 @@
 An all-in-one platform for **institutes, consultants, and students** — powered by AI-driven exam generation, assignment tracking, real-time messaging, and a reward-based scoring system.
 
 ## 📸 Platform Preview
-<h2 align="center">Sub-accounts/ Profiles</h2>
+<h3 align="center">Sub-accounts/ Profiles</h3>
 <div align="center">
   <img src="./NoghteKur-images/1.webp">
   <img src="./NoghteKur-images/2.webp">
   <img src="./NoghteKur-images/3.webp">
 </div>
 
-### Create Exam/ Last Exams/ Each Exam Details
+<h3 align="center">Create Exam/ Last Exams/ Each Exam Details</h3>
 <div align="center">
   <img src="./NoghteKur-images/4.webp">
   <img src="./NoghteKur-images/5.webp">
@@ -18,23 +18,23 @@ An all-in-one platform for **institutes, consultants, and students** — powered
   <img src="./NoghteKur-images/7.webp">
 </div>
 
-### Create Message/ Message List
+<h3 align="center">Create Message/ Message List</h3>
 <div align="center">
   <img src="./NoghteKur-images/8.webp">
   <img src="./NoghteKur-images/9.webp">
 </div>
 
-### Financial Charts
+<h3 align="center">Financial Charts</h3>
 <div align="center">
   <img src="./NoghteKur-images/10.webp">
 </div>
 
-### Create Weekly Study Plan
+<h3 align="center">Create Weekly Study Plan</h3>
 <div align="center">
   <img src="./NoghteKur-images/11.webp">
 </div>
 
-### Manage Accounts
+<h3 align="center">Manage Accounts</h3>
 <div align="center">
   <img src="./NoghteKur-images/12.webp">
 </div>
