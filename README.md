@@ -5,7 +5,8 @@ An all-in-one platform for **institutes, consultants, and students** — powered
 ## 📸 Platform Preview
 ### Sub-accounts & Profiles
 <div align="center">
-  <img src="./NoghteKur-images/1.webp">
+  <img src="./NoghteKur-images/1.webp" width="50%">
+  <img src="./NoghteKur-images/2.webp" width="50%">
 </div>
 
 ## ✨ Key Features
