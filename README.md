@@ -1,5 +1,5 @@
 # 🎯 NoghteKur — Educational Management Platform
-### Live Demo:  [https://noghtekur.ir](https://noghtekur.ir)
+### Live Demo:  [https://noghtekur.omidamiri.com](https://noghtekur.omidamiri.com)
 <h3>NoghteKur — Where education gets smarter 🚀 </h3>
 An all-in-one platform for **institutes, consultants, and students** — powered by AI-driven exam generation, assignment tracking, real-time messaging, and a reward-based scoring system.
 
